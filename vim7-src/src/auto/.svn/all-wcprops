@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/vim/!svn/ver/1889/vim7/src/auto
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/vim/!svn/ver/1889/vim7/src/auto/configure
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/vim/!svn/ver/1889/vim7/src/auto/config.h
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/vim/!svn/ver/1889/vim7/src/auto/config.mk
+END

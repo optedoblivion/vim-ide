@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/mpb/.ide/eclipse/configuration/.settings'
+let g:netrw_dirhist_2='/home/mpb/Code/AndroidRomDev/CyanogenMod/frameworks/policies/base/phone'
+let g:netrw_dirhist_3='/home/mpb/Code/AndroidRomDev/cm-kernel-exp/block'
+let g:netrw_dirhist_4='/home/mpb/Downloads/irssi-0.8.15/src/fe-text'

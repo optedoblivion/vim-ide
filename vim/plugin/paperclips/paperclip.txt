@@ -1,0 +1,13 @@
+       ____
+      /    \
+     |  /\  |
+     | |  | |         _________________________________
+     |(o)(o)|        /                                 \
+     | |  | |       /    I see you are trying to do a   \
+     | |  | |      /     regular expression.  Would you  \
+     | |  | |     /      like help expressing yourself    \
+     | |  | | |  /___    as a regular?                    /
+     | \___/| |      \                                   /
+      \ \_/  /        \                                 /
+       \___/           \_______________________________/
+

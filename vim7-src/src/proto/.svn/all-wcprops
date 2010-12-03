@@ -1,0 +1,479 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/vim/!svn/ver/1889/vim7/src/proto
+END
+ex_docmd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/ex_docmd.pro
+END
+ex_cmds.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/ex_cmds.pro
+END
+gui_motif.pro
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/gui_motif.pro
+END
+message.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/message.pro
+END
+mark.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/mark.pro
+END
+termlib.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/termlib.pro
+END
+if_tcl.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/if_tcl.pro
+END
+ops.pro
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/ops.pro
+END
+menu.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/menu.pro
+END
+ex_cmds2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/ex_cmds2.pro
+END
+search.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/search.pro
+END
+undo.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/undo.pro
+END
+move.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/move.pro
+END
+os_qnx.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/os_qnx.pro
+END
+fileio.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/fileio.pro
+END
+window.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/window.pro
+END
+option.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/option.pro
+END
+diff.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/diff.pro
+END
+buffer.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/buffer.pro
+END
+hashtab.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/hashtab.pro
+END
+workshop.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/workshop.pro
+END
+gui_x11.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/gui_x11.pro
+END
+gui_w32.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/gui_w32.pro
+END
+gui_xmdlg.pro
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/gui_xmdlg.pro
+END
+mbyte.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/mbyte.pro
+END
+gui_gtk_x11.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/gui_gtk_x11.pro
+END
+ex_eval.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/ex_eval.pro
+END
+os_unix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/os_unix.pro
+END
+gui.pro
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/gui.pro
+END
+fold.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/fold.pro
+END
+edit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/edit.pro
+END
+os_msdos.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/os_msdos.pro
+END
+eval.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/eval.pro
+END
+gui_gtk.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/gui_gtk.pro
+END
+regexp.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/regexp.pro
+END
+gui_beval.pro
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/gui_beval.pro
+END
+os_mswin.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/os_mswin.pro
+END
+netbeans.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/netbeans.pro
+END
+if_ruby.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/if_ruby.pro
+END
+if_python.pro
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/if_python.pro
+END
+os_riscos.pro
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/os_riscos.pro
+END
+gui_athena.pro
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/gui_athena.pro
+END
+gui_mac.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/gui_mac.pro
+END
+os_win16.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/os_win16.pro
+END
+os_vms.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/os_vms.pro
+END
+gui_riscos.pro
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/gui_riscos.pro
+END
+term.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/term.pro
+END
+hardcopy.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/hardcopy.pro
+END
+gui_photon.pro
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/gui_photon.pro
+END
+memfile.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/memfile.pro
+END
+popupmnu.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/popupmnu.pro
+END
+os_mac_conv.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/os_mac_conv.pro
+END
+memline.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/memline.pro
+END
+charset.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/charset.pro
+END
+if_perlsfio.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/if_perlsfio.pro
+END
+if_xcmdsrv.pro
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/if_xcmdsrv.pro
+END
+hangulin.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/hangulin.pro
+END
+tag.pro
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/tag.pro
+END
+misc1.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/misc1.pro
+END
+pty.pro
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/pty.pro
+END
+misc2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/misc2.pro
+END
+spell.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/spell.pro
+END
+if_perl.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/if_perl.pro
+END
+gui_w16.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/gui_w16.pro
+END
+quickfix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/quickfix.pro
+END
+main.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/main.pro
+END
+version.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/version.pro
+END
+syntax.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/syntax.pro
+END
+normal.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/normal.pro
+END
+if_cscope.pro
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/if_cscope.pro
+END
+if_ole.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/if_ole.pro
+END
+if_mzsch.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/if_mzsch.pro
+END
+os_win32.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/os_win32.pro
+END
+ex_getln.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/ex_getln.pro
+END
+getchar.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/getchar.pro
+END
+ui.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/ui.pro
+END
+digraph.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/digraph.pro
+END
+os_amiga.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/os_amiga.pro
+END
+screen.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/vim/!svn/ver/1889/vim7/src/proto/screen.pro
+END

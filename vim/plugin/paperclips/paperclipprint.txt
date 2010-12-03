@@ -1,0 +1,13 @@
+       ____
+      /    \
+     |  /\  |
+     | |  | |         _________________________________
+     |(o)(o)|        /                                 \
+     | |  | |       /    I see you typed "print".       \
+     | |  | |      /      - Would you like to print a    \
+     | |  | |     /      document?                        \
+     | |  | | |  /___     - Are you trying to code python?/
+     | \___/| |      \    - Would you like to print to   /
+      \ \_/  /        \     PDF?                        /
+       \___/           \_______________________________/
+

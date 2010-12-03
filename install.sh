@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DIRS="vim vimbackup/swap"
+DIRS="vim vimbackup"
 DEPS="pylint python ctags"
 
 echo "] For best results, install vim with your package manager first."
@@ -18,12 +18,12 @@ done
 echo "] Installing directories..."
 for DIR in $DIRS;
 do
-    echo "] - ~/$DIR"
-    cp -r ./$DIR "~/.$DIR"
+    echo "] - $HOME/$DIR"
+    cp -r ./$DIR "$HOME/.$DIR"
 done
 
-echo "] Installing .vimrc to ~/.vimrc"
-cp ./vimrc ~/.vimrc
+echo "] Installing .vimrc to $HOME/.vimrc"
+cp ./vimrc $HOME/.vimrc
 
 echo "] Building vim with python"
 cd vim7-src

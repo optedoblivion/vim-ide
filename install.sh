@@ -1,41 +1,33 @@
 #!/bin/bash
 
-DIRS="vim vimbackup"
-DEPS="pylint python ctags"
-
-if [ -f /etc/lsb-release ]
-then
-    source /etc/lsb-release
-    if [ "$DISTRIB_ID" = "Ubuntu" ]
-    then
-        sudo apt-get -y install pylint exuberant-ctags
-        sudo apt-get -y build-dep vim
-    fi
-fi
-
-echo "] For best results, install vim with your package manager first."
-
-echo "] Checking deps..."
-for DEP in $DEPS;
+# Required programs
+REQUIRED="hg pylint python ctags"
+for name in $(echo $REQUIRED);
 do
-    D=$(which $DEP)
-    if [ "$D" == "" ]; then
-        echo "] - Missing Dependancy -- $DEP!"
-        exit 1
-    fi
+    type -P "$name" &>/dev/null || { echo "Dependancy missing! Please install '$name'!" >&2; exit 1;}
 done
 
-echo "] Installing directories..."
-for DIR in $DIRS;
-do
-    echo "] - $HOME/$DIR"
-    cp -r ./$DIR "$HOME/.$DIR"
-done
+# Plugin/Config files
+PLUGIN_DIR="vim"
+RCFILE="vimrc"
 
-echo "] Installing .vimrc to $HOME/.vimrc"
-cp ./vimrc $HOME/.vimrc
+# Install configs
+cp -r vim ~/.vim
+cp vimrc ~/.vimrc
+mkdir -p ~/.vimbackup/swap
 
-echo "] Building vim with python"
-cd vim7-src
+# Fetch VIM sources
+hg clone https://vim.googlecode.com/hg/ vim-src
+
+# Change directory
+cd vim-src
+
+# Update
+hg pull
+hg update
+
+# Build with Python
+PROC="$(cat /proc/cpuinfo | grep proc | wc -l)"
 ./configure --enable-pythoninterp
-make
+make -j "$PROC"
+sudo make install
